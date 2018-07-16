@@ -1,0 +1,22 @@
+It can be done by simply making your pages on social platforms and posting interesting content on to it. This makes you socially active and grabs attention of millions of users on theses platforms.
+According to this techzim report http://www.techzim.co.zw/2016/08/top-10-visited-websites-zimbabwe/ here are the most visited social media platforms in Zimbabwe
+1.  Youtube 
+2.  Facebook
+3.  Twitter
+
+Social Media Platforms Listing 
+
+Social Media Engagement 
+
+Hacking Followers on Social Media 
+• Follow principle – follow as much accounts as you can and you will get follows in return
+• Quality is key 
+• Timing is key
+• Reach out to social media influencers (tech village, etc )
+• Interact with followers and potential followers 
+• Reward following 
+• Join conversations on social media (Conversations from other people)
+• People search for jokes on social media, consider adding  little jokes as media (video/images) in your future posts. 
+
+
+Paid promotion on social media 
