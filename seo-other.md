@@ -27,6 +27,9 @@ Syntax errors, such as open tags, extra spaces, or forgotten quotation marks, ca
 
 go to https://validator.w3.org/
 
+### Urls 
+1. no underscores in the url. use hiphens instead 
+
 
 ### Up your page rank 
 Regular updates of new content
@@ -46,9 +49,13 @@ Have many websites link to your homepage (classifieds, yellow pages, social netw
 
 ### Images alt text 
 //alt tags should be in line with keywords  
+make sure you alt keywords for every image 
 
 ### Broken Links 
 //cut on all broken links 
+
+### Number of pages in site 
+A low number can indicate that bots are unable to discover your pages, which is commonly caused by bad site architecture & internal linking, or you're unknowingly preventing bots and search engines from crawling & indexing your pages. An unusually high number could be an indication of duplicate content due to URL parameters. 
 
 ### Browser Compatibility
 //work on a web compatibility 
@@ -64,6 +71,8 @@ HTML is just a general overview of the site, just the pages and info a user need
 3.  Check that sitemap is showing for you at http://erpminsights.com/sitemap.xml
 4.  go to your Google Webmaster account and add your sitemap URL.
 A XML sitemap protocol is specifically intended for search engine spiders. At its root, XML is a file that includes all the behind the scenes activity on a web site. Not just the site’s main URL, but all the URLs within the site along with the associated metadata. This can include when the URL was last updated, how important it is, the average frequency changes occur, the URLs relation to the rest of the site, etc
+
+then oyu have to add your XML sitemap to your robots.txt 
 
 ### Google Sitemap 
 

@@ -8,13 +8,13 @@
 or if your site has been on watch for a long time, drill down into your website's traffic sources, and sift through you organic search traffic bucket to identify the keywords people are using to arrive at your site.
 
 ### When you find these you can add them to your 
+• Meta Description  and meta keywords 
 • Page titles 
 • Urls
 • H1 content 
 • Body content 
 • Site navigation link text 
 • Image Alt Tag 
-• Meta Description 
 
 
 #### A word on the keywords meta tag 
