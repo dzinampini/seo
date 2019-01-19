@@ -1,6 +1,10 @@
 Examples are 
 Video Creation and Submission (YouTube.com)
 
+Google MY Business
+Bing My Business 
+Yahoo My Business 
+
 Web 2.0 Link Building 
 this is basiclally Completing your profile on major sites
 Wikipedia ()
